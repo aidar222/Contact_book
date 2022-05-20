@@ -1,0 +1,33 @@
+.imgContact{
+    width: 300px;
+    height: 300px;
+}
+
+.name{
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+    font-size: larger;
+}
+
+.card-body{
+    background-color: cornsilk;
+}
+
+.card-header{
+    background-color: cornsilk !important;
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+    font-size: larger;
+}
+
+.contactlistBtn{
+    margin-top: 4px;
+}
+
+.card1{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 75px;
+    margin-left: 75px;
+    margin-top: 35px;
+}

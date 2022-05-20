@@ -1,0 +1,21 @@
+.edit{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.input{
+    margin-top: 15px;
+    background-color: cornsilk;
+    border: none;
+    border-radius: 20px;
+}
+
+.btnSave{
+    background-color: brown;
+    color: whitesmoke;
+    border: none;
+    border-radius: 20px;
+    margin-top: 15px;
+}

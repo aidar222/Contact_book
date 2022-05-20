@@ -1,0 +1,32 @@
+.addStyle{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+} 
+
+.h1{
+    font-family: 'Bebas Neue', cursive;;
+    color: brown;
+    margin-left: 395px;
+    margin-top: 35px !important;
+}
+
+.fill{
+    margin-top: 15px;
+    background-color: cornsilk;
+    border: none;
+    border-radius: 20px;
+}
+
+.fill::placeholder{
+    text-align: center;
+    color: darkgray;
+}
+
+#btn{
+    background-color: brown;
+    color: whitesmoke;
+}
+
+
